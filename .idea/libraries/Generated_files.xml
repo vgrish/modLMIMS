@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/translator.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/translator.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/docs/.bem/techs/md.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/gonzales.cssp.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/docs/.bem/level.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/web/csso.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/gonzales.cssp.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/trbl.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/cssoapi.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/translator.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/compressor.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/util.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/util.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/util.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/test/test.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/csso.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/translator.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/translator.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/docs/.bem/techs/md.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/gonzales.cssp.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/docs/.bem/level.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/web/csso.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/gonzales.cssp.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/compressor.web.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/trbl.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/cssoapi.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/translator.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/compressor.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/util.node.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/util.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/src/util.shared.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/test/test.min.js" />
+      <root url="file://$PROJECT_DIR$/.node_modules/csso/lib/csso.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
